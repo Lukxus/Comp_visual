@@ -1,0 +1,9 @@
+"O que você acha que verá na disciplina? Isto é, qual é a sua ideia de Computação Visual?
+Escrever no papel ou em um arquivo texto e guardar (será a primeira atividade online no Moodle."
+
+Ao considerar Computação Visual, geralmente pensamos no processamento e manipulação de imagens, 
+explorando uma variedade de métodos para ajustes e transformações. No entanto, dada a sua posição 
+dentro do campo da Ciência da Computação, naturalmente também consideramos a importância da unidade 
+de processamento gráfico (GPU). Nossa expectativa é entender os processos de renderização, assim como 
+compreender o gerenciamento de memória e a otimização da paralelização necessária para tornar aplicativos 
+como jogos e editores de imagem viáveis e repletos de funcionalidades dentro do contexto computacional.
