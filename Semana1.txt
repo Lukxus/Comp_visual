@@ -14,6 +14,11 @@ Na disciplina de Computação Visual, espero explorar técnicas avançadas para 
 corrigir imperfeições e ruídos, analisar padrões e interpretar informações visuais, além de estudar os fundamentos 
 da renderização de imagens.
 
+Lucas:
+Na minha concepção, na disciplina de computação visual iremos explorar técnicas de processamento e manipulação de imagens, 
+ajustes, transformações e qualidade visual. Pretendo compreender os processos de renderização, assim como desenvolver habilidades 
+para melhor uso de uma GPU, como gerenciamento de memória e otimização para aplicações práticas (principalmente jogos).
+
 Leonardo: 
 Acredito que Computação Visual seria a área da computação que estuda boas práticas relacionadas a elementos 
 gráficos, desde como implementá-los até como utilizá-los de maneira agradável para o usuário. Acredito ser 
