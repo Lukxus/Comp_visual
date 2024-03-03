@@ -7,5 +7,8 @@ Grupo:
 
 Eduardo Veit Ferrão RA: 10389961
 
+Leonardo Pinheiro de Souza
+RA: 10388961
+
 Luiz Octavio Tassinari Saraiva
 RA: 10374379
