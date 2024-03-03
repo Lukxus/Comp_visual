@@ -11,3 +11,6 @@ como jogos e editores de imagem viáveis e repletos de funcionalidades dentro do
 
 Eduardo:
 Na disciplina de Computação Visual, espero explorar técnicas avançadas para aprimorar a qualidade de imagens, corrigir imperfeições e ruídos, analisar padrões e interpretar informações visuais, além de estudar os fundamentos da renderização de imagens.
+
+Leonardo: 
+Acredito que Computação Visual seria a área da computação que estuda boas práticas relacionadas a elementos gráficos, desde como implementá-los até como utilizá-los de maneira agradável para o usuário. Acredito ser uma área fortemente relacionada a imagens, e com isso as possibilidades são variadas já que podemos ter elementos 2D, 3D, com diferentes texturas e cores.
